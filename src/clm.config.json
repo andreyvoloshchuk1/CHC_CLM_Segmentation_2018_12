@@ -1,0 +1,34 @@
+{
+  "clm": {
+    "productId": "CHC_CLM_Segmentation_2018_12",
+    "productName": "CHC_CLM_Segmentation_2018_12",
+    "disableSwipeBetweenFlows": true,
+    "csv": {
+      "country": "Ukraine",
+      "product": "INCH"
+    }
+  },
+  "languages": ["ru"],
+  "device": {
+    "resolution": {
+      "width": 1280,
+      "height": 720
+    }
+  },
+  "structure": [
+    {
+      "id": "slide-main",
+      "path": "slide-main",
+      "name": {
+        "ru": "Опросник"
+      }
+    },
+    {
+      "id": "slide-1_1",
+      "path": "flow-1/slide-1_1",
+      "name": {
+        "ru": "Название 1"
+      }
+    }
+  ]
+}
