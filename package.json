@@ -11,7 +11,7 @@
     "generate": "vue-cli-service generate"
   },
   "dependencies": {
-    "gsap": "^2.0.2",
+    "gsap": "^3.6.0",
     "veevalibrary": "^4.0.8",
     "vue": "^2.5.17",
     "vue-router": "^3.0.1",
